@@ -1,4 +1,4 @@
-# Playground for Jane Street Market Prediction Competition on Kaggle
+# Playground for Jane Street Market Prediction Competition on Kaggle 
 
 # Introduction
 Jane Street hosted a code competition of predicting the stock market (Feb 2021 to Aug 2021) using the past high frequency trading data (2 years of data before 2018?) on Kaggle: [https://www.kaggle.com/c/jane-street-market-prediction](https://www.kaggle.com/c/jane-street-market-prediction). 
